@@ -15,15 +15,16 @@ Date:12/09/2025
 
 ALGORITHME Analyse_phrase
 VAR
- 	l, n, k:entiers 	//l: longueur, n: nb de mots, k: nb de voyelles
+ 	l, n, k:entiers 	//l: longueur, n: nb de mots, k: nb de voyelles.
+  
        phrase, voyelles: tableau de caractères
 
 DEBUT
 
-//Initiation des tableaux
+//Initiation des tableaux.
 
-voyelles= tableau vide	// va contenir les voyelles saisies
-phrase= tableau vide	// va contenir la phrase saisie
+voyelles= tableau vide	// va contenir les voyelles saisies.
+phrase= tableau vide	// va contenir la phrase saisie.
 
 --- remplissage tableau avec voyelles ---
 
